@@ -1,0 +1,141 @@
+body{
+    background-color: #d1d1e0;
+}
+nav{
+    background-color: #9494b8;
+    padding: 40px;
+}
+a{
+    font-family: 'Secular One', sans-serif;
+    font-size: 140%;
+    padding-left: 40px;
+    color: #551A8B;
+    text-decoration: none;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    text-indent: 30px;
+    line-height: 1.5;
+}
+h1{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/*hem css*/
+.image-sketch{
+    position: relative;
+    width: 550px;
+    height: auto;
+    float: right;
+    right: 50px;
+    top: 40px;
+}
+.image-painting{
+    position: relative;
+    width: 400px;
+    height: auto;
+    float: right;
+    right: 800px;
+    top: 160px;
+}
+.home-text{
+    position: relative;
+    width: 600px;
+    height: auto;
+    float: left;
+    left: 20px;
+    top: 10px;
+}
+.home-text2{
+    position: relative;
+    width: 700px;
+    height: auto;
+    float: left;
+    left: 500px;
+    top: 60px;
+}
+/*om mig css*/
+.image-profil{
+    position: relative;
+    width: 400px;
+    height: auto;
+    float: left;
+    left: 50px;
+    top: 100px;
+}
+.about{
+    position: relative;
+    width: 700px;
+    height: auto;
+    float: right;
+    right: 50px;
+}
+.text{
+    position: relative;
+    float: top;
+    top: 20px;
+}
+/*portfolio css*/
+.image1{
+    position: relative;
+    width: auto;
+    height: 400px;
+    float: left;
+    left: 70px;
+    top: 25px;
+    border: 3px solid black;
+}
+.image2{
+    position: relative;
+    width: auto;
+    height: 400px;
+    float: left;
+    left: 75px;
+    top: 25px;
+    border: 3px solid black;
+}
+.image3{
+    position: relative;
+    width: auto;
+    height: 400px;
+    float: left;
+    left: 80px;
+    top: 25px;
+    border: 3px solid black;
+}
+.image4{
+    position: relative;
+    width: auto;
+    height: 400px;
+    float: left;
+    left: 85px;
+    border: 3px solid black;
+}
+/*kontakt css*/
+form{
+    position: relative;
+    float: left;
+    left: 550px;
+    top: 50px;
+}
+/*footers css*/
+.footer1{
+    background-color: #9494b8;
+    text-align: center;
+    padding: 40px;
+    float: top;
+    top: 1150px;
+    position: absolute;
+    height: 10px;
+    width: 100%;
+}
+.footer2{
+    background-color: #9494b8;
+    text-align: center;
+    padding: 40px;
+    float: top;
+    top: 670px;
+    position: absolute;
+    height: 10px;
+    width: 100%;
+}
